@@ -1,0 +1,8 @@
+ansible==4.3.0
+dnspython==2.0.0
+PyYAML==5.4.1
+ansible-runner==2.0.1
+jmespath==0.10.0
+requests==2.26.0
+docker==5.0.3
+docker-py==1.10.6

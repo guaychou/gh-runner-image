@@ -1,0 +1,3 @@
+#!/usr/bin/with-contenv bash
+cd $RUNNER_PATH
+exec gh-auther unregister

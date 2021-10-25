@@ -1,0 +1,3 @@
+#!/usr/bin/with-contenv bash
+exec $RUNNER_PATH/bin/Runner.Listener run \
+     --startuptype service
